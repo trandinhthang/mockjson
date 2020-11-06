@@ -125,7 +125,7 @@
       "exam":["Vắng mặt","-- Il est absent de son bureau","-> Ông ta không có mặt ở văn phòng",
 				"Thiếu","-- La gaieté est absente de cette maison","-> Căn nhà này thiếu sự vui tươi"
 			],
-		  "speciality":"",
+		  "speciality":[],
 		  "antonym":["Présent","Có mặt, hiện tại, này",
         "--Dire du mal des absents","->Nói xấu những người vắng mặt"
 			],
@@ -141,7 +141,7 @@
       "exam":["Đi","-- Aller à pied /à cheval /en voiture ","-> Đi bộ/đi ngựa/đi xe ô-tô",
         "-- Allez plus vite ! ","-> Đi nhanh lên!"
 		  ],
-		  "speciality":"",
+		  "speciality":[],
 		  "antonym":["Rester","Còn lại, ở lại",
 				"--Château dont il ne reste que des ruines","-> Lâu đài chỉ còn lại những tàn tích"
 			],
@@ -157,7 +157,7 @@
 		  "exam":["Năm","-- Etudiant de deuxième année","-> Sinh viên năm hai",
 				"Tuổi","-- Elle est dans sa dix-huitième année","-> Cô ta đang tuổi mười tám"
 		  ],
-		  "speciality":"",
+		  "speciality":[],
       "antonym":[
       ],     
 		  "image":""
@@ -172,7 +172,7 @@
       "exam":["Hôm nay","-- Il doit partir dès aujourd'hui","-> Nó phải ra đi ngay ngày hôm nay",
 				"Ngày nay, Đời nay ","-- Les jeunes d'aujourd'hui","-> Thanh niên thời nay"
 		  ],
-		  "speciality":"",
+		  "speciality":[],
       "antonym":[
       ],
 		  "image":""
@@ -188,7 +188,7 @@
 				"Hay","-- Un bon mot","-> Một lời hay",
 				"Được!","-- Bon ! Vous pouvez partir","-> Được, anh có thể đi!"
 		  ],
-		  "speciality":"",
+		  "speciality":[],
 		  "antonym":["Méchant","Độc ác, ác",
         "-- Homme méchant","-> Người độc ác","-- Méchante langue","-> Miệng lưỡi độc ác"
       ],
@@ -233,7 +233,7 @@
       "exam":["Chăn nuôi","-- Élever des lapins","-> Nuôi thỏ",
 				"Nuôi nắng","-- Élever un enfant","-> Nuôi nấng một đứa trẻ"
 		  ],
-		  "speciality":"",
+		  "speciality":[],
 		  "antonym":[
       ],
 		  "image":""
@@ -247,7 +247,7 @@
 		  "gramma":"Danh từ giống đực",
       "exam":[
 		  ],
-		  "speciality":"",
+		  "speciality":[],
 		  "antonym":[
       ],
 		  "image":""
@@ -262,7 +262,7 @@
 		  "exam":["Hoang đường","-- Personnage fabuleux","-> Nhân vật hoang đường",
 				"Phi thường","-- Un courage fabuleux","-> Lòng dũng cảm phi thường"
 		  ],
-		  "speciality":"",
+		  "speciality":[],
 		  "antonym":["certain","Chắc chắn, chắc",
         "-- Un fait certain","-> Một sự việc chắc chắn"
       ],
@@ -278,7 +278,7 @@
 		  "exam":["Tôi","-- Je ne sais pourquoi","-> Tôi không biết tại sao",
 				"-- Je ne viendrai pas","-> Tôi sẽ không tới"
 		  ],
-		  "speciality":"",
+		  "speciality":[],
 		  "antonym":[
       ],
 		  "image":""
@@ -292,7 +292,7 @@
 	  "gramma":"Tính từ",
 	  "exam":[
     ],
-	  "speciality":"",
+	  "speciality":[],
 	  "antonym":[
     ],
 	  "image":""

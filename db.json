@@ -122,12 +122,12 @@
 		  "IPA": "[apsɑ̃]",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0000210.mp3",
 		  "gramma":"Danh từ giống đực",
-		  "exam":["Vắng mặt","-- Il est absent de son bureau -> Ông ta không có mặt ở văn phòng",
-				"Thiếu","-- La gaieté est absente de cette maison -> Căn nhà này thiếu sự vui tươi"
+      "exam":["Vắng mặt","-- Il est absent de son bureau","-> Ông ta không có mặt ở văn phòng",
+				"Thiếu","-- La gaieté est absente de cette maison","-> Căn nhà này thiếu sự vui tươi"
 			],
 		  "speciality":"",
 		  "antonym":["Présent","Có mặt, hiện tại, này",
-				"--Dire du mal des absents","--Nói xấu những người vắng mặt"
+        "--Dire du mal des absents","->Nói xấu những người vắng mặt"
 			],
 		  "image":""
 		},
@@ -138,162 +138,164 @@
 		  "IPA": "[ale]",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0036840.mp3",
 		  "gramma":"Nội động từ",
-		  "exam":["Đi","-- Aller à pied /à cheval /en voiture- > Đi bộ/đi ngựa/đi xe ô-tô","-- Allez plus vite ! -> Đi nhanh lên!"
+      "exam":["Đi","-- Aller à pied /à cheval /en voiture ","-> Đi bộ/đi ngựa/đi xe ô-tô",
+        "-- Allez plus vite ! ","-> Đi nhanh lên!"
 		  ],
 		  "speciality":"",
 		  "antonym":["Rester","Còn lại, ở lại",
-				"--Château dont il ne reste que des ruines -> Lâu đài chỉ còn lại những tàn tích"
+				"--Château dont il ne reste que des ruines","-> Lâu đài chỉ còn lại những tàn tích"
 			],
 		  "image":""
 		},
 		{
 		  "id": 3,
 		  "nameFr": "année",
-		  "data": ["năm,", " tuổi,", " niên"],
+		  "data": ["năm,", " tuổi"],
 		  "IPA": "[ane]",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0101210.mp3",
 		  "gramma":"Danh từ giống cái",
-		  "exam":["đi","",
-				"","",
-				"",""
+		  "exam":["Năm","-- Etudiant de deuxième année","-> Sinh viên năm hai",
+				"Tuổi","-- Elle est dans sa dix-huitième année","-> Cô ta đang tuổi mười tám"
 		  ],
 		  "speciality":"",
-		  "antonym":"",
+      "antonym":[
+      ],     
 		  "image":""
 		},
 		{
 		  "id": 4,
 		  "nameFr": "aujourd'hui",
-		  "data": ["hôm nay,"," dạo này,", " ngày nay,", " đời nay"],
+		  "data": ["hôm nay,", " ngày nay,", " đời nay"],
 		  "IPA": "[oʒuʀdɥi]",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/fr_aujourd_hui.mp3",
 		  "gramma":"Trạng từ",
-		  "exam":["đi","",
-				"","",
-				"",""
+      "exam":["Hôm nay","-- Il doit partir dès aujourd'hui","-> Nó phải ra đi ngay ngày hôm nay",
+				"Ngày nay, Đời nay ","-- Les jeunes d'aujourd'hui","-> Thanh niên thời nay"
 		  ],
 		  "speciality":"",
-		  "antonym":"",
+      "antonym":[
+      ],
 		  "image":""
 		},
 		{
 		  "id": 5,
 		  "nameFr": "bon",
-		  "data": ["tốt,"," hay,", " ngon"],
+		  "data": ["tốt,"," hay,", " được!"],
 		  "IPA": "[bɔ̃]",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0032500.mp3",
 		  "gramma":"Tính từ",
-		  "exam":["đi","",
-				"","",
-				"",""
+      "exam":["Tốt","-- Avoir une bonne vue","-> Có thị giác tốt",
+				"Hay","-- Un bon mot","-> Một lời hay",
+				"Được!","-- Bon ! Vous pouvez partir","-> Được, anh có thể đi!"
 		  ],
 		  "speciality":"",
-		  "antonym":"Mauvais: Tệ, xấu, tồi",
+		  "antonym":["Méchant","Độc ác, ác",
+        "-- Homme méchant","-> Người độc ác","-- Méchante langue","-> Miệng lưỡi độc ác"
+      ],
 		  "image":""
 		}, 
 		{
 		  "id": 6,
-		  "nameFr": "bon",
-		  "data": ["tốt,"," hay,", " ngon"],
-		  "IPA": "[bɔ̃]",
-		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0032500.mp3",
-		  "gramma":"Tính từ",
-		  "exam":["đi","",
-				"","",
-				"",""
-		  ],
-		  "speciality":"",
-		  "antonym":"Mauvais: Tệ, xấu, tồi",
-		  "image":""
-		}, 
-		{
-		  "id": 7,
 		  "nameFr": "croître ",
 		  "data": ["mọc,"," sinh trưởng"],
 		  "IPA": "[kʀwatʀ]",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/fr_croitre.mp3",
 		  "gramma":"Động từ",
-		  "exam":["đi","",
-				"","",
-				"",""
+      "exam":["Sinh trưởng, mọc","-- Les végétaux croissent lentement","-> Cây sinh trưởng chậm"
 		  ],
 		  "speciality":"Tăng trưởng( trong ngành kinh tế )",
-		  "antonym":"Baisser: Cúi, hạ, xuống.",
+		  "antonym":["Baisser","Hạ thấp",
+        "-- Baisser un tableau","-> Hạ thấp bức tranh"
+      ],
 		  "image":""
 		}, 
 		{
-		  "id": 8,
+		  "id": 7,
 		  "nameFr": "économie",
 		  "IPA": "[ekɔnɔmi]",
 		  "data": ["tiết kiệm"],
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0027870.mp3",
 		  "gramma":"Danh từ giống cái",
-		  "exam":["đi","",
-				"","",
-				"",""
+      "exam":["Tiết kiệm","-- Avoir le sens de l'économie","-> Có tính tiết kiệm"
 		  ],
-		  "speciality":"Kinh tế, kinh tế học.",
-		  "antonym":"",
+		  "speciality":["Kinh tế, kinh tế học( trong ngành kinh tế)", "-- Économie d'un pays","-> Nền kinh tế của một nước"],
+		  "antonym":[
+      ],
+		  "image":""
+		},
+		{
+		  "id": 8,
+		  "nameFr": "élever",
+		  "IPA": "[el(ə)ve]",
+		  "data": ["chăn nuôi,", " nuôi nấng"],
+		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0010890.mp3",
+		  "gramma":"Động từ",
+      "exam":["Chăn nuôi","-- Élever des lapins","-> Nuôi thỏ",
+				"Nuôi nắng","-- Élever un enfant","-> Nuôi nấng một đứa trẻ"
+		  ],
+		  "speciality":"",
+		  "antonym":[
+      ],
 		  "image":""
 		},
 		{
 		  "id": 9,
-		  "nameFr": "élever",
-		  "IPA": "[el(ə)ve]",
-		  "data": ["chăn nuôi,"," cất cao,", " nuôi nấng"],
-		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0010890.mp3",
-		  "gramma":"Động từ",
-		  "exam":["đi","",
-				"","",
-				"",""
+		  "nameFr": "érable",
+		  "IPA": "[eʀabl]",
+		  "data": ["cây thích"],
+		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0052010.mp3",
+		  "gramma":"Danh từ giống đực",
+      "exam":[
 		  ],
 		  "speciality":"",
-		  "antonym":"",
+		  "antonym":[
+      ],
 		  "image":""
 		},
 		{
 		  "id": 10,
-		  "nameFr": "érable",
-		  "IPA": "[eʀabl]",
-		  "data": ["cây phong"],
-		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0052010.mp3",
-		  "gramma":"Danh từ giống đực",
-		  "exam":["đi","",
-				"","",
-				"",""
-		  ],
-		  "speciality":"",
-		  "antonym":"",
-		  "image":""
-		},
-		{
-		  "id": 11,
 		  "nameFr": "fabuleux",
 		  "IPA": "[fabylø]",
-		  "data": ["hoang đường,"," phi thường,", " hư truyền"],
+		  "data": ["hoang đường,"," phi thường"],
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0030960.mp3",
 		  "gramma":"Tính từ",
-		  "exam":["đi","",
-				"","",
-				"",""
+		  "exam":["Hoang đường","-- Personnage fabuleux","-> Nhân vật hoang đường",
+				"Phi thường","-- Un courage fabuleux","-> Lòng dũng cảm phi thường",
+				"","",""
 		  ],
 		  "speciality":"",
-		  "antonym":"",
+		  "antonym":["certain","Chắc chắn, chắc",
+        "-- Un fait certain","-> Một sự việc chắc chắn"
+      ],
+		  "image":""
+    },
+    {
+		  "id": 10,
+		  "nameFr": "je",
+		  "IPA": "[ʒe]",
+		  "data": ["tôi,"," ta","tao","tớ"],
+		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0042280.mp3",
+		  "gramma":"Danh từ giống đực",
+		  "exam":["Tôi","-- Je ne sais pourquoi","-> Tôi không biết tại sao",
+				"-- Je ne viendrai pas","-> Tôi sẽ không tới"
+		  ],
+		  "speciality":"",
+		  "antonym":[
+      ],
 		  "image":""
 		},
 		{
-	  "id": 12,
+	  "id": 11,
 	  "nameFr": "occupé",
 	  "IPA": "[ɔkype]",
-	  "data": ["bận rộn"],
+	  "data": ["bận bịu"],
 	  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0012260.mp3",
 	  "gramma":"Tính từ",
-	  "exam":["đi","",
-			"","",
-			"",""
-	  ],
+	  "exam":[
+    ],
 	  "speciality":"",
-	  "antonym":"Libre: Tự do, rãnh rỗi. ",
+	  "antonym":[
+    ],
 	  "image":""
 	}
 	]

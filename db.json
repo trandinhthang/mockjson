@@ -270,7 +270,7 @@
     },
     {
 		  "id": 10,
-		  "nameFr": "je",
+		  "nameFr": "hihi",
 		  "IPA": "[ʒe]",
 		  "data": ["tôi,"," ta","tao","tớ"],
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0042280.mp3",
@@ -283,7 +283,7 @@
       ],
 		  "image":""
 		},
-		{
+	{
 	  "id": 11,
 	  "nameFr": "occupé",
 	  "IPA": "[ɔkype]",

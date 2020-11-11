@@ -122,12 +122,12 @@
 		  "IPA": "[apsɑ̃]",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0000210.mp3",
 		  "gramma":"Danh từ giống đực",
-      "exam":["Vắng mặt","-- Il est absent de son bureau","-> Ông ta không có mặt ở văn phòng",
-				"Thiếu","-- La gaieté est absente de cette maison","-> Căn nhà này thiếu sự vui tươi"
+      	  "exam":["Vắng mặt"," Il est absent de son bureau"," Ông ta không có mặt ở văn phòng",
+				"Thiếu"," La gaieté est absente de cette maison"," Căn nhà này thiếu sự vui tươi"
 			],
 		  "speciality":[],
 		  "antonym":["Présent","Có mặt, hiện tại, này",
-        "--Dire du mal des absents","->Nói xấu những người vắng mặt"
+        "Dire du mal des absents","Nói xấu những người vắng mặt"
 			],
 		  "image":""
 		},
@@ -138,12 +138,12 @@
 		  "IPA": "[ale]",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0036840.mp3",
 		  "gramma":"Nội động từ",
-      "exam":["Đi","-- Aller à pied /à cheval /en voiture ","-> Đi bộ/đi ngựa/đi xe ô-tô",
-        "-- Allez plus vite ! ","-> Đi nhanh lên!"
+      	  "exam":["Đi"," Aller à pied /à cheval /en voiture "," Đi bộ/đi ngựa/đi xe ô-tô",
+        " Allez plus vite ! "," Đi nhanh lên!"
 		  ],
 		  "speciality":[],
 		  "antonym":["Rester","Còn lại, ở lại",
-				"--Château dont il ne reste que des ruines","-> Lâu đài chỉ còn lại những tàn tích"
+				"Château dont il ne reste que des ruines"," Lâu đài chỉ còn lại những tàn tích"
 			],
 		  "image":""
 		},
@@ -154,12 +154,12 @@
 		  "IPA": "[ane]",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0101210.mp3",
 		  "gramma":"Danh từ giống cái",
-		  "exam":["Năm","-- Etudiant de deuxième année","-> Sinh viên năm hai",
-				"Tuổi","-- Elle est dans sa dix-huitième année","-> Cô ta đang tuổi mười tám"
+		  "exam":["Năm"," Etudiant de deuxième année"," Sinh viên năm hai",
+				"Tuổi"," Elle est dans sa dix-huitième année"," Cô ta đang tuổi mười tám"
 		  ],
 		  "speciality":[],
-      "antonym":[
-      ],     
+          "antonym":[
+      	],     
 		  "image":""
 		},
 		{
@@ -169,12 +169,12 @@
 		  "IPA": "[oʒuʀdɥi]",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/fr_aujourd_hui.mp3",
 		  "gramma":"Trạng từ",
-      "exam":["Hôm nay","-- Il doit partir dès aujourd'hui","-> Nó phải ra đi ngay ngày hôm nay",
-				"Ngày nay, Đời nay ","-- Les jeunes d'aujourd'hui","-> Thanh niên thời nay"
+          "exam":["Hôm nay"," Il doit partir dès aujourd'hui"," Nó phải ra đi ngay ngày hôm nay",
+				"Ngày nay, Đời nay "," Les jeunes d'aujourd'hui"," Thanh niên thời nay"
 		  ],
 		  "speciality":[],
-      "antonym":[
-      ],
+          "antonym":[
+          ],
 		  "image":""
 		},
 		{
@@ -184,14 +184,14 @@
 		  "IPA": "[bɔ̃]",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0032500.mp3",
 		  "gramma":"Tính từ",
-      "exam":["Tốt","-- Avoir une bonne vue","-> Có thị giác tốt",
-				"Hay","-- Un bon mot","-> Một lời hay",
-				"Được!","-- Bon ! Vous pouvez partir","-> Được, anh có thể đi!"
+          "exam":["Tốt"," Avoir une bonne vue"," Có thị giác tốt",
+				"Hay"," Un bon mot"," Một lời hay",
+				"Được!"," Bon ! Vous pouvez partir"," Được, anh có thể đi!"
 		  ],
 		  "speciality":[],
 		  "antonym":["Méchant","Độc ác, ác",
-        "-- Homme méchant","-> Người độc ác","-- Méchante langue","-> Miệng lưỡi độc ác"
-      ],
+        " Homme méchant"," Người độc ác"," Méchante langue"," Miệng lưỡi độc ác"
+           ],
 		  "image":""
 		}, 
 		{
@@ -201,11 +201,11 @@
 		  "IPA": "[kʀwatʀ]",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/fr_croitre.mp3",
 		  "gramma":"Động từ",
-      "exam":["Sinh trưởng, mọc","-- Les végétaux croissent lentement","-> Cây sinh trưởng chậm"
+      "exam":["Sinh trưởng, mọc"," Les végétaux croissent lentement"," Cây sinh trưởng chậm"
 		  ],
 		  "speciality":"Tăng trưởng( trong ngành kinh tế )",
 		  "antonym":["Baisser","Hạ thấp",
-        "-- Baisser un tableau","-> Hạ thấp bức tranh"
+        " Baisser un tableau"," Hạ thấp bức tranh"
       ],
 		  "image":""
 		}, 
@@ -216,9 +216,9 @@
 		  "data": ["tiết kiệm"],
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0027870.mp3",
 		  "gramma":"Danh từ giống cái",
-      "exam":["Tiết kiệm","-- Avoir le sens de l'économie","-> Có tính tiết kiệm"
+      "exam":["Tiết kiệm"," Avoir le sens de l'économie"," Có tính tiết kiệm"
 		  ],
-		  "speciality":["Kinh tế, kinh tế học( trong ngành kinh tế)", "-- Économie d'un pays","-> Nền kinh tế của một nước"],
+		  "speciality":["Kinh tế, kinh tế học( trong ngành kinh tế)", " Économie d'un pays"," Nền kinh tế của một nước"],
 		  "antonym":[
       ],
 		  "image":""
@@ -230,8 +230,8 @@
 		  "data": ["chăn nuôi,", " nuôi nấng"],
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0010890.mp3",
 		  "gramma":"Động từ",
-      "exam":["Chăn nuôi","-- Élever des lapins","-> Nuôi thỏ",
-				"Nuôi nắng","-- Élever un enfant","-> Nuôi nấng một đứa trẻ"
+      "exam":["Chăn nuôi"," Élever des lapins"," Nuôi thỏ",
+				"Nuôi nắng"," Élever un enfant"," Nuôi nấng một đứa trẻ"
 		  ],
 		  "speciality":[],
 		  "antonym":[
@@ -259,12 +259,12 @@
 		  "data": ["hoang đường,"," phi thường"],
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0030960.mp3",
 		  "gramma":"Tính từ",
-		  "exam":["Hoang đường","-- Personnage fabuleux","-> Nhân vật hoang đường",
-				"Phi thường","-- Un courage fabuleux","-> Lòng dũng cảm phi thường"
+		  "exam":["Hoang đường"," Personnage fabuleux"," Nhân vật hoang đường",
+				"Phi thường"," Un courage fabuleux"," Lòng dũng cảm phi thường"
 		  ],
 		  "speciality":[],
 		  "antonym":["certain","Chắc chắn, chắc",
-        "-- Un fait certain","-> Một sự việc chắc chắn"
+        " Un fait certain"," Một sự việc chắc chắn"
       ],
 		  "image":""
     },
@@ -275,8 +275,8 @@
 		  "data": ["tôi,"," ta","tao","tớ"],
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0042280.mp3",
 		  "gramma":"Danh từ giống đực",
-		  "exam":["Tôi","-- Je ne sais pourquoi","-> Tôi không biết tại sao",
-				"-- Je ne viendrai pas","-> Tôi sẽ không tới"
+		  "exam":["Tôi"," Je ne sais pourquoi"," Tôi không biết tại sao",
+				" Je ne viendrai pas"," Tôi sẽ không tới"
 		  ],
 		  "speciality":[],
 		  "antonym":[

@@ -116,22 +116,21 @@
 
 	"search": [
 		{
-		  "id": 1,
-		  "nameFr": "absent",
-		  "data": ["vắng mặt,"," thiếu"],
-		  "IPA": "[apsɑ̃]",
-		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0000210.mp3",
-		  "gramma":"Danh từ giống đực",
-      	  "exam":["Vắng mặt"," Il est absent de son bureau"," Ông ta không có mặt ở văn phòng",
-				"Thiếu"," La gaieté est absente de cette maison"," Căn nhà này thiếu sự vui tươi"
-			],
-			"examFr":["Il est absent de son bureau","abc abc"],
-			"examVn":"Ông ta không có mặt ở văn phòng",
-		  "speciality":[],
-		  "antonym":["Présent","Có mặt, hiện tại, này",
-        " Dire du mal des absents"," Nói xấu những người vắng mặt"
-			],
-		  "image":""
+			"id": 1,
+			"nameFr": "absent",
+			"data": ["vắng mặt,"," thiếu"],
+			"IPA": "[apsɑ̃]",
+			"url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0000210.mp3",
+			"gramma":"Danh từ giống đực",
+			"examFr1":"La gaieté est absente de cette maison",
+			"examVn1":"Căn nhà này thiếu sự vui tươi",	
+			"examFr2":"Il est absent de son bureau",
+			"examVn2":"Ông ta không có mặt ở văn phòng",
+			"speciality":[],
+			"antonym":["Présent","Có mặt, hiện tại, này",
+			" Dire du mal des absents"," Nói xấu những người vắng mặt"
+				],
+			"image":""
 		},
 		{
 		  "id": 2,

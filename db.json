@@ -125,6 +125,8 @@
       	  "exam":["Vắng mặt"," Il est absent de son bureau"," Ông ta không có mặt ở văn phòng",
 				"Thiếu"," La gaieté est absente de cette maison"," Căn nhà này thiếu sự vui tươi"
 			],
+			"examFr":"Il est absent de son bureau",
+			"examVn":"Ông ta không có mặt ở văn phòng",
 		  "speciality":[],
 		  "antonym":["Présent","Có mặt, hiện tại, này",
         " Dire du mal des absents"," Nói xấu những người vắng mặt"

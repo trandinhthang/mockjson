@@ -125,8 +125,7 @@
 			"examFr1":"La gaieté est absente de cette maison",
 			"examVn1":"Căn nhà này thiếu sự vui tươi",	
 			"examFr2":"Il est absent de son bureau",
-			"examVn2":"Ông ta không có mặt ở văn phòng",
-			"speciality":[],
+			"examVn2":"Ông ta không có mặt ở văn phòng",			
 			"antonym":["Présent","Có mặt, hiện tại, này",
 			" Dire du mal des absents"," Nói xấu những người vắng mặt"
 				],
@@ -142,8 +141,7 @@
 			"examFr1":"Aller à pied /à cheval /en voiture",
 			"examVn1":"Đi bộ/đi ngựa/đi xe ô-tô",	
 			"examFr2":"Allez plus vite !",
-			"examVn2":"Đi nhanh lên!",
-			"speciality":[],
+			"examVn2":"Đi nhanh lên!",			
 			"antonym":["Rester","Còn lại, ở lại",
 					" Château dont il ne reste que des ruines"," Lâu đài chỉ còn lại những tàn tích"
 				],
@@ -159,8 +157,7 @@
 			"examFr1":"Etudiant de deuxième année",
 			"examVn1":"Sinh viên năm hai",	
 			"examFr2":"Elle est dans sa dix-huitième année",
-			"examVn2":"Cô ta đang tuổi mười tám",
-			"speciality":[],
+			"examVn2":"Cô ta đang tuổi mười tám",	
 			"antonym":[
 			],     
 			"image":""
@@ -175,8 +172,7 @@
 			"examFr1":"Il doit partir dès aujourd'hui",
 			"examVn1":"Nó phải ra đi ngay ngày hôm nay",	
 			"examFr2":"Les jeunes d'aujourd'hui",
-			"examVn2":"Thanh niên thời nay",
-			"speciality":[],
+			"examVn2":"Thanh niên thời nay",			
 			"antonym":[
 			],
 			"image":""
@@ -191,8 +187,7 @@
 			"examFr1":"Avoir une bonne vue",
 			"examVn1":"Có thị giác tốt",	
 			"examFr2":"Un bon mot",
-			"examVn2":"Một lời hay",
-			"speciality":[],
+			"examVn2":"Một lời hay",		
 			"antonym":["Méchant","Độc ác, ác",
 		" Homme méchant"," Người độc ác"," Méchante langue"," Miệng lưỡi độc ác"
 			],
@@ -205,16 +200,13 @@
 			"IPA": "[kʀwatʀ]",
 			"url":"https://www.collinsdictionary.com/sounds/hwd_sounds/fr_croitre.mp3",
 			"gramma":"Động từ",
-			"exam":["Sinh trưởng, mọc"," Les végétaux croissent lentement"," Cây sinh trưởng chậm"
-			],
 			"examFr1":"Les végétaux croissent lentement",
 			"examVn1":"Cây sinh trưởng chậm",	
 			"examFr2":"",
 			"examVn2":"",
-			"speciality":"Tăng trưởng( trong ngành kinh tế )",
 			"antonym":["Baisser","Hạ thấp",
 			" Baisser un tableau"," Hạ thấp bức tranh"
-		],
+			],
 			"image":""
 		}, 
 		{
@@ -228,9 +220,8 @@
 			"examVn1":"Có tính tiết kiệm",	
 			"examFr2":"",
 			"examVn2":"",
-			"speciality":["Kinh tế, kinh tế học( trong ngành kinh tế)", " Économie d'un pays"," Nền kinh tế của một nước"],
 			"antonym":[
-		],
+			],
 			"image":""
 		},
 		{
@@ -243,10 +234,9 @@
 			"examFr1":"Élever des lapins",
 			"examVn1":"Nuôi thỏ",	
 			"examFr2":"Élever un enfant",
-			"examVn2":"Nuôi nấng một đứa trẻ",
-			"speciality":[],
+			"examVn2":"Nuôi nấng một đứa trẻ",	
 			"antonym":[
-		],
+			],
 			"image":""
 		},
 		{
@@ -260,7 +250,6 @@
 			"examVn1":"",
 			"examFr2":"",
 			"examVn2":"",
-			"speciality":[],
 			"antonym":[
 			],
 			"image":""
@@ -276,7 +265,6 @@
 			"examVn1":"Nhân vật hoang đường",	
 			"examFr2":"Un courage fabuleux",
 			"examVn2":"Lòng dũng cảm phi thường",
-			"speciality":[],
 			"antonym":["Certain","Chắc chắn, chắc",
 			" Un fait certain"," Một sự việc chắc chắn"
 			],
@@ -293,7 +281,6 @@
 			"examVn1":"Tôi không biết tại sao",	
 			"examFr2":"Je ne viendrai pas",
 			"examVn2":"Tôi sẽ không tới",
-			"speciality":[],
 			"antonym":[
 			],
 			"image":""
@@ -309,7 +296,6 @@
 			"examVn1":"Trứng gà",	
 			"examFr2":"",
 			"examVn2":"",
-			"speciality":[],
 			"antonym":[
 			],
 			"image":"https://cdn.pixabay.com/photo/2017/07/20/15/21/cock-2522623_960_720.jpg"

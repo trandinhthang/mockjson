@@ -192,8 +192,6 @@
 			"examVn1":"Có thị giác tốt",	
 			"examFr2":"Un bon mot",
 			"examVn2":"Một lời hay",
-			"examFr3":"Bon ! Vous pouvez partir",
-			"examVn3":"Được, anh có thể đi!",
 			"speciality":[],
 			"antonym":["Méchant","Độc ác, ác",
 		" Homme méchant"," Người độc ác"," Méchante langue"," Miệng lưỡi độc ác"
@@ -211,6 +209,8 @@
 			],
 			"examFr1":"Les végétaux croissent lentement",
 			"examVn1":"Cây sinh trưởng chậm",	
+			"examFr2":"",
+			"examVn2":"",
 			"speciality":"Tăng trưởng( trong ngành kinh tế )",
 			"antonym":["Baisser","Hạ thấp",
 			" Baisser un tableau"," Hạ thấp bức tranh"
@@ -224,10 +224,10 @@
 			"data": ["tiết kiệm"],
 			"url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0027870.mp3",
 			"gramma":"Danh từ giống cái",
-			"exam":["Tiết kiệm"," Avoir le sens de l'économie"," Có tính tiết kiệm"
-			],
 			"examFr1":"Avoir le sens de l'économie",
 			"examVn1":"Có tính tiết kiệm",	
+			"examFr2":"",
+			"examVn2":"",
 			"speciality":["Kinh tế, kinh tế học( trong ngành kinh tế)", " Économie d'un pays"," Nền kinh tế của một nước"],
 			"antonym":[
 		],
@@ -240,9 +240,6 @@
 			"data": ["chăn nuôi,", " nuôi nấng"],
 			"url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0010890.mp3",
 			"gramma":"Động từ",
-			"exam":["Chăn nuôi"," Élever des lapins"," Nuôi thỏ",
-					"Nuôi nắng"," Élever un enfant"," Nuôi nấng một đứa trẻ"
-			],
 			"examFr1":"Élever des lapins",
 			"examVn1":"Nuôi thỏ",	
 			"examFr2":"Élever un enfant",
@@ -259,8 +256,10 @@
 			"data": ["cây thích"],
 			"url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0052010.mp3",
 			"gramma":"Danh từ giống đực",
-			"exam":[
-			],
+			"examFr1":"",
+			"examVn1":"",
+			"examFr2":"",
+			"examVn2":"",
 			"speciality":[],
 			"antonym":[
 			],
@@ -278,13 +277,13 @@
 			"examFr2":"Un courage fabuleux",
 			"examVn2":"Lòng dũng cảm phi thường",
 			"speciality":[],
-			"antonym":["certain","Chắc chắn, chắc",
+			"antonym":["Certain","Chắc chắn, chắc",
 			" Un fait certain"," Một sự việc chắc chắn"
 			],
 			"image":""
 		},
 		{
-			"id": 10,
+			"id": 11,
 			"nameFr": "je",
 			"IPA": "[ʒe]",
 			"data": ["tôi,"," ta,"," tao",", tớ"],
@@ -298,6 +297,22 @@
 			"antonym":[
 			],
 			"image":""
+		},
+		{
+			"id": 12,
+			"nameFr": "poule",
+			"IPA": "[pul]",
+			"data": ["gà mái"],
+			"url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0040230.mp3",
+			"gramma":"Danh từ giống cái",
+			"examFr1":"Oeuf de poule",
+			"examVn1":"Trứng gà",	
+			"examFr2":"",
+			"examVn2":"",
+			"speciality":[],
+			"antonym":[
+			],
+			"image":"https://cdn.pixabay.com/photo/2017/07/20/15/21/cock-2522623_960_720.jpg"
 		}
 	]
 }

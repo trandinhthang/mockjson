@@ -73,7 +73,7 @@
 		},
 
 		{
-		  "key":1,
+		  "key":4,
 		  "nameFr": "Ananas",
 		  "nameVn": "Trái dứa",
 		  "categorie": 2,
@@ -81,7 +81,7 @@
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0064640.mp3"
 		},
 		{
-		  "key":2,
+		  "key":5,
 		  "nameFr": "Pomme",
 		  "nameVn": "Trái táo",
 		  "categorie": 2,
@@ -89,7 +89,7 @@
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0003820.mp3"
 		},
 		{
-		  "key":3,
+		  "key":6,
 		  "nameFr": "Banane",
 		  "nameVn": "Trái chuối",
 		  "categorie": 2,
@@ -97,7 +97,7 @@
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0006470.mp3"
 		},
 		{
-		  "key":4,
+		  "key":7,
 		  "nameFr": "Fraise",
 		  "nameVn": "Dâu tây",
 		  "categorie": 2,
@@ -105,7 +105,7 @@
 		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0086070.mp3"
 		},
 		{
-		  "key":5,
+		  "key":8,
 		  "nameFr": "Noix De Coco",
 		  "nameVn": "Trái dừa",
 		  "categorie": 2,

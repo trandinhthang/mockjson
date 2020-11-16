@@ -272,21 +272,6 @@
 		},
 		{
 			"id": 11,
-			"nameFr": "je",
-			"IPA": "[ʒe]",
-			"data": ["tôi","ta","tao","tớ"],
-			"url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0042280.mp3",
-			"gramma":"Danh từ giống đực",
-			"examFr1":"Je ne sais pourquoi",
-			"examVn1":"Tôi không biết tại sao",	
-			"examFr2":"Je ne viendrai pas",
-			"examVn2":"Tôi sẽ không tới",
-			"antonym":[
-			],
-			"image":""
-		},
-		{
-			"id": 12,
 			"nameFr": "poule",
 			"IPA": "[pul]",
 			"data": ["gà mái"],
@@ -299,6 +284,21 @@
 			"antonym":[
 			],
 			"image":"https://cdn.pixabay.com/photo/2017/07/20/15/21/cock-2522623_960_720.jpg"
+		},
+		{
+			"id": 12,
+			"nameFr": "quantre",
+			"IPA": "[katʀ]",
+			"data": ["bốn"],
+			"url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0034390.mp3",
+			"gramma":"Danh từ giống đực",
+			"examFr1":"Les quatre saisons",
+			"examVn1":"Bốn mùa",	
+			"examFr2":"Les quatre vents",
+			"examVn2":"Bốn phương (tứ phía)",
+			"antonym":[
+			],
+			"image":"https://cdn.pixabay.com/photo/2013/07/12/15/30/counting-149954_960_720.png"
 		}
 	]
 }

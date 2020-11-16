@@ -179,17 +179,16 @@
 		},
 		{
 			"id": 5,
-			"nameFr": "bon",
-			"data": ["tốt","hay", "được!"],
-			"IPA": "[bɔ̃]",
-			"url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0032500.mp3",
-			"gramma":"Tính từ",
-			"examFr1":"Avoir une bonne vue",
-			"examVn1":"Có thị giác tốt",	
-			"examFr2":"Un bon mot",
-			"examVn2":"Một lời hay",		
-			"antonym":["Méchant","Độc ác, ác",
-		" Homme méchant"," Người độc ác"," Méchante langue"," Miệng lưỡi độc ác"
+			"nameFr": "avion",
+			"data": ["máy bay","phi cơ"],
+			"IPA": "[avjɔ̃]",
+			"url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0002020.mp3",
+			"gramma":"Danh từ giống đực",
+			"examFr1":"Avion de lutte contre les incendies",
+			"examVn1":"Máy bay chữa cháy",	
+			"examFr2":"Avion à réaction",
+			"examVn2":"Máy bay phản lực",		
+			"antonym":[
 			],
 			"image":""
 		}, 

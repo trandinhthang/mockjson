@@ -279,52 +279,6 @@
 			"antonym":[
 			],
 			"image":""
-		},
-		{
-			"id": 10,
-			"nameFr": "fabuleux",
-			"IPA": "[fabylø]",
-			"data": ["hoang đường","phi thường"],
-			"url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0030960.mp3",
-			"gramma":"Tính từ",
-			"examFr1":"Personnage fabuleux",
-			"examVn1":"Nhân vật hoang đường",	
-			"examFr2":"Un courage fabuleux",
-			"examVn2":"Lòng dũng cảm phi thường",
-			"antonym":["Certain","Chắc chắn, chắc",
-			" Un fait certain"," Một sự việc chắc chắn"
-			],
-			"image":""
-		},
-		{
-			"id": 11,
-			"nameFr": "poule",
-			"IPA": "[pul]",
-			"data": ["gà mái"],
-			"url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0040230.mp3",
-			"gramma":"Danh từ giống cái",
-			"examFr1":"Oeuf de poule",
-			"examVn1":"Trứng gà",	
-			"examFr2":"",
-			"examVn2":"",
-			"antonym":[
-			],
-			"image":"https://cdn.pixabay.com/photo/2017/07/20/15/21/cock-2522623_960_720.jpg"
-		},
-		{
-			"id": 12,
-			"nameFr": "quantre",
-			"IPA": "[katʀ]",
-			"data": ["bốn"],
-			"url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0034390.mp3",
-			"gramma":"Danh từ giống đực",
-			"examFr1":"Les quatre saisons",
-			"examVn1":"Bốn mùa",	
-			"examFr2":"Les quatre vents",
-			"examVn2":"Bốn phương (tứ phía)",
-			"antonym":[
-			],
-			"image":"https://cdn.pixabay.com/photo/2013/07/12/15/30/counting-149954_960_720.png"
 		}
 	]
 }

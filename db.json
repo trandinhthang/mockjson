@@ -43,7 +43,6 @@
 		  "image": "https://www.flaticon.com/premium-icon/icons/svg/3124/3124991.svg"
 		}
 	], 
-
 	"vocabulary": [
 		{
 		  "key":1,
@@ -64,10 +63,10 @@
 		  "categorie": 1,
 		  "image": "https://cdn4.iconfinder.com/data/icons/transportation-32/130/_Private_Helicopter-256.png",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0040140.mp3",
-		  "exFr1":"Avion à réaction",
-		  "exVn1":"Máy bay phản lực",
-		  "exFr2":"Avion supersonique",
-		  "exVn2":"Máy bay siêu âm"
+		  "exFr1":"",
+		  "exVn1":"",
+		  "exFr2":"",
+		  "exVn2":""
 		},
 		{
 		  "key":3,
@@ -76,10 +75,10 @@
 		  "categorie": 1,
 		  "image": "https://cdn4.iconfinder.com/data/icons/jetflat-2-vehicles-vol-1/60/001_010_car_ambulance_transport_aid_doctor-256.png",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0002780.mp3",
-		  "exFr1":"Avion à réaction",
-		  "exVn1":"Máy bay phản lực",
-		  "exFr2":"Avion supersonique",
-		  "exVn2":"Máy bay siêu âm"
+		  "exFr1":"",
+		  "exVn1":"",
+		  "exFr2":"",
+		  "exVn2":""
 		},
 		{
 		  "key":4,
@@ -88,10 +87,10 @@
 		  "categorie": 2,
 		  "image": "https://cdn2.iconfinder.com/data/icons/food-98/64/Food_pineapple-256.png",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0064640.mp3",
-		  "exFr1":"Avion à réaction",
-		  "exVn1":"Máy bay phản lực",
-		  "exFr2":"Avion supersonique",
-		  "exVn2":"Máy bay siêu âm"
+		  "exFr1":"",
+		  "exVn1":"",
+		  "exFr2":"",
+		  "exVn2":""
 		},
 		{
 		  "key":5,
@@ -100,10 +99,10 @@
 		  "categorie": 2,
 		  "image": "https://cdn3.iconfinder.com/data/icons/unigrid-flat-fruits-vegetables/90/010_008_apple_fruit_food-256.png",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0003820.mp3",
-		  "exFr1":"Avion à réaction",
-		  "exVn1":"Máy bay phản lực",
-		  "exFr2":"Avion supersonique",
-		  "exVn2":"Máy bay siêu âm"
+		  "exFr1":"",
+		  "exVn1":"",
+		  "exFr2":"",
+		  "exVn2":""
 		},
 		{
 		  "key":6,
@@ -112,10 +111,10 @@
 		  "categorie": 2,
 		  "image": "https://cdn2.iconfinder.com/data/icons/food-98/64/Food_banana-256.png",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0006470.mp3",
-		  "exFr1":"Avion à réaction",
-		  "exVn1":"Máy bay phản lực",
-		  "exFr2":"Avion supersonique",
-		  "exVn2":"Máy bay siêu âm"
+		  "exFr1":"",
+		  "exVn1":"",
+		  "exFr2":"",
+		  "exVn2":""
 		},
 		{
 		  "key":7,
@@ -124,10 +123,10 @@
 		  "categorie": 2,
 		  "image": "https://cdn4.iconfinder.com/data/icons/fruits-collection-full-color/150/Fruits_Collection-33-256.png",
 		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0086070.mp3",
-		  "exFr1":"Avion à réaction",
-		  "exVn1":"Máy bay phản lực",
-		  "exFr2":"Avion supersonique",
-		  "exVn2":"Máy bay siêu âm"
+		  "exFr1":"",
+		  "exVn1":"",
+		  "exFr2":"",
+		  "exVn2":""
 		},
 		{
 		  "key":8,
@@ -136,10 +135,10 @@
 		  "categorie": 2,
 		  "image": "https://cdn4.iconfinder.com/data/icons/fruits-collection-full-color/150/Fruits_Collection-06-256.png",
 		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0017180.mp3",
-		  "exFr1":"Avion à réaction",
-		  "exVn1":"Máy bay phản lực",
-		  "exFr2":"Avion supersonique",
-		  "exVn2":"Máy bay siêu âm"
+		  "exFr1":"",
+		  "exVn1":"",
+		  "exFr2":"",
+		  "exVn2":""
 		}
 	],
 	"search": [

@@ -52,10 +52,10 @@
 		  "categorie": 1,
 		  "image": "https://cdn2.iconfinder.com/data/icons/scenarium-vol-3-1/128/049_airplane_transport_clouds_fly_flight-256.png",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0002020.mp3",
-		  "IPA":"[avjɔ̃]",
-		  "gramma":"Nom masculin(Danh từ giống đực)",
-		  "exVn":"Máy bay của Hải quân sẽ có vẻ thua kém và Tổng thống sẽ phải cần tới siêu chiến đấu cơ của tôi",
-		  "exFr":"Les avions de la marine auront l'air inféri et le président voudra avoir mon superjet"
+		  "exFr1":"Avion à réaction",
+		  "exVn1":"Máy bay phản lực",
+		  "exFr2":"Avion supersonique",
+		  "exVn2":"Máy bay siêu âm"
 		},
 		{
 		  "key":2,
@@ -64,10 +64,10 @@
 		  "categorie": 1,
 		  "image": "https://cdn4.iconfinder.com/data/icons/transportation-32/130/_Private_Helicopter-256.png",
 		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0040140.mp3",
-		  "IPA":"[elikɔptɛʀ]",
-		  "gramma":"Nom masculin(Danh từ giống đực)",
-		  "exVn":"Cử trực thăng đi đưa họ về và kiểm tra cô ấy đi.",
-		  "exFr":"Envoyer un hélicoptère, les faire sortir et la tester."
+		  "exFr1":"Avion à réaction",
+		  "exVn1":"Máy bay phản lực",
+		  "exFr2":"Avion supersonique",
+		  "exVn2":"Máy bay siêu âm"
 		},
 		{
 		  "key":3,
@@ -75,16 +75,23 @@
 		  "nameVn": "Xe cứu thương",
 		  "categorie": 1,
 		  "image": "https://cdn4.iconfinder.com/data/icons/jetflat-2-vehicles-vol-1/60/001_010_car_ambulance_transport_aid_doctor-256.png",
-		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0002780.mp3"
+		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0002780.mp3",
+		  "exFr1":"Avion à réaction",
+		  "exVn1":"Máy bay phản lực",
+		  "exFr2":"Avion supersonique",
+		  "exVn2":"Máy bay siêu âm"
 		},
-
 		{
 		  "key":4,
 		  "nameFr": "Ananas",
 		  "nameVn": "Trái dứa",
 		  "categorie": 2,
 		  "image": "https://cdn2.iconfinder.com/data/icons/food-98/64/Food_pineapple-256.png",
-		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0064640.mp3"
+		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0064640.mp3",
+		  "exFr1":"Avion à réaction",
+		  "exVn1":"Máy bay phản lực",
+		  "exFr2":"Avion supersonique",
+		  "exVn2":"Máy bay siêu âm"
 		},
 		{
 		  "key":5,
@@ -92,7 +99,11 @@
 		  "nameVn": "Trái táo",
 		  "categorie": 2,
 		  "image": "https://cdn3.iconfinder.com/data/icons/unigrid-flat-fruits-vegetables/90/010_008_apple_fruit_food-256.png",
-		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0003820.mp3"
+		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0003820.mp3",
+		  "exFr1":"Avion à réaction",
+		  "exVn1":"Máy bay phản lực",
+		  "exFr2":"Avion supersonique",
+		  "exVn2":"Máy bay siêu âm"
 		},
 		{
 		  "key":6,
@@ -100,7 +111,11 @@
 		  "nameVn": "Trái chuối",
 		  "categorie": 2,
 		  "image": "https://cdn2.iconfinder.com/data/icons/food-98/64/Food_banana-256.png",
-		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0006470.mp3"
+		  "url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0006470.mp3",
+		  "exFr1":"Avion à réaction",
+		  "exVn1":"Máy bay phản lực",
+		  "exFr2":"Avion supersonique",
+		  "exVn2":"Máy bay siêu âm"
 		},
 		{
 		  "key":7,
@@ -108,7 +123,11 @@
 		  "nameVn": "Dâu tây",
 		  "categorie": 2,
 		  "image": "https://cdn4.iconfinder.com/data/icons/fruits-collection-full-color/150/Fruits_Collection-33-256.png",
-		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0086070.mp3"
+		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0086070.mp3",
+		  "exFr1":"Avion à réaction",
+		  "exVn1":"Máy bay phản lực",
+		  "exFr2":"Avion supersonique",
+		  "exVn2":"Máy bay siêu âm"
 		},
 		{
 		  "key":8,
@@ -116,7 +135,11 @@
 		  "nameVn": "Trái dừa",
 		  "categorie": 2,
 		  "image": "https://cdn4.iconfinder.com/data/icons/fruits-collection-full-color/150/Fruits_Collection-06-256.png",
-		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0017180.mp3"
+		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0017180.mp3",
+		  "exFr1":"Avion à réaction",
+		  "exVn1":"Máy bay phản lực",
+		  "exFr2":"Avion supersonique",
+		  "exVn2":"Máy bay siêu âm"
 		}
 	],
 

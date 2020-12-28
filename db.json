@@ -50,7 +50,7 @@
 		  "exVn1":"Máy bay phản lực",
 		  "exFr2":"Avion supersonique",
 		  "exVn2":"Máy bay siêu âm",
-		  "others":["(thân mật, nghĩa bóng) vệ sĩ, cận vệ","Les gorilles du Président","những cận vệ của tống thống"]
+		  "others":["(thân mật, nghĩa bóng) vệ sĩ, cận vệ","Les gorilles du Président","Những cận vệ của tống thống"]
 		},
 		{
 		  "key":2,
@@ -63,7 +63,8 @@
 		  "exFr1":"",
 		  "exVn1":"",
 		  "exFr2":"",
-		  "exVn2":""
+		  "exVn2":"",
+		  "others":""
 		},
 		{
 		  "key":3,
@@ -76,7 +77,8 @@
 		  "exFr1":"",
 		  "exVn1":"",
 		  "exFr2":"",
-		  "exVn2":""
+		  "exVn2":"",
+		  "others":""
 		},
 		{
 		  "key":4,
@@ -89,7 +91,8 @@
 		  "exFr1":"",
 		  "exVn1":"",
 		  "exFr2":"",
-		  "exVn2":""
+		  "exVn2":"",
+		  "others":""
 		},
 		{
 		  "key":5,
@@ -102,7 +105,8 @@
 		  "exFr1":"",
 		  "exVn1":"",
 		  "exFr2":"",
-		  "exVn2":""
+		  "exVn2":"",
+		  "others":""
 		},
 		{
 		  "key":6,
@@ -115,7 +119,8 @@
 		  "exFr1":"",
 		  "exVn1":"",
 		  "exFr2":"",
-		  "exVn2":""
+		  "exVn2":"",
+		  "others":""
 		},
 		{
 		  "key":7,
@@ -128,7 +133,8 @@
 		  "exFr1":"",
 		  "exVn1":"",
 		  "exFr2":"",
-		  "exVn2":""
+		  "exVn2":"",
+		  "others":""
 		},
 		{
 		  "key":8,
@@ -141,7 +147,8 @@
 		  "exFr1":"",
 		  "exVn1":"",
 		  "exFr2":"",
-		  "exVn2":""
+		  "exVn2":"",
+		  "others":""
 		}
 	],
 	"search": [

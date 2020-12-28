@@ -50,7 +50,7 @@
 		  "exVn1":"Máy bay phản lực",
 		  "exFr2":"Avion supersonique",
 		  "exVn2":"Máy bay siêu âm",
-		  "others":["(thân mật, nghĩa bóng) vệ sĩ, cận vệ","Les gorilles du Président","Những cận vệ của tống thống"]
+		  "others":[""]
 		},
 		{
 		  "key":2,
@@ -64,7 +64,7 @@
 		  "exVn1":"",
 		  "exFr2":"",
 		  "exVn2":"",
-		  "others":""
+		  "others":[""]
 		},
 		{
 		  "key":3,
@@ -78,7 +78,7 @@
 		  "exVn1":"",
 		  "exFr2":"",
 		  "exVn2":"",
-		  "others":""
+		  "others":[""]
 		},
 		{
 		  "key":4,
@@ -92,7 +92,7 @@
 		  "exVn1":"",
 		  "exFr2":"",
 		  "exVn2":"",
-		  "others":""
+		  "others":[""]
 		},
 		{
 		  "key":5,
@@ -106,7 +106,7 @@
 		  "exVn1":"",
 		  "exFr2":"",
 		  "exVn2":"",
-		  "others":""
+		  "others":[""]
 		},
 		{
 		  "key":6,
@@ -120,35 +120,49 @@
 		  "exVn1":"",
 		  "exFr2":"",
 		  "exVn2":"",
-		  "others":""
+		  "others":[""]
 		},
 		{
-		  "key":7,
-		  "nameFr": "Fraise",
-		  "nameVn": "Dâu tây",
-		  "IPA": "[fʀɛz]",
-		  "categorie": 2,
-		  "image": "https://cdn4.iconfinder.com/data/icons/fruits-collection-full-color/150/Fruits_Collection-33-256.png",
-		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0086070.mp3",
-		  "exFr1":"",
-		  "exVn1":"",
-		  "exFr2":"",
-		  "exVn2":"",
-		  "others":""
+			"key":7,
+			"nameFr": "Cerf",
+			"nameVn": "Hươu",
+			"IPA": "[sɛʀ]",
+			"categorie": 3,
+			"image": "https://www.flaticon.com/premium-icon/icons/svg/2097/2097887.svg",
+			"url": "https://www.collinsdictionary.com/sounds/hwd_sounds/fr_cerf.mp3",
+			"exFr1":"Les bois du cerf",
+			"exVn1":"Gạc hươu",
+			"exFr2":"Femelle du cerf",
+			"exVn2":"Hươu cái",
+			"others":["(Từ đồng âm) Serre: Nhà kính, sức ép","Donner une première serre au raisin","Ép nho lần thứ nhất"]
 		},
 		{
 		  "key":8,
-		  "nameFr": "Noix De Coco",
-		  "nameVn": "Trái dừa",
-		  "IPA": "[]",
-		  "categorie": 2,
-		  "image": "https://cdn4.iconfinder.com/data/icons/fruits-collection-full-color/150/Fruits_Collection-06-256.png",
-		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0017180.mp3",
-		  "exFr1":"",
-		  "exVn1":"",
-		  "exFr2":"",
-		  "exVn2":"",
-		  "others":""
+		  "nameFr": "Gorille",
+		  "nameVn": "Khỉ đột",
+		  "IPA": "[ɡɔʀij]",
+		  "categorie": 3,
+		  "image": "https://www.flaticon.com/premium-icon/icons/svg/2559/2559425.svg",
+		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0037300.mp3",
+		  "exFr1":"Les gorilles musclés",
+		  "exVn1":"Những con khỉ đột lực lưỡng",
+		  "exFr2":"Gorille et forêt",
+		  "exVn2":"Khỉ đột và rừng",
+		  "others":["(thân mật, nghĩa bóng) vệ sĩ, cận vệ","Les gorilles du Président","Những cận vệ của tống thống"]
+		},
+		{
+		  "key":9,
+		  "nameFr": "Cheval",
+		  "nameVn": "Ngựa",
+		  "IPA": "[ʃ(ə)val]",
+		  "categorie": 3,
+		  "image": "https://www.flaticon.com/premium-icon/icons/svg/3042/3042491.svg",
+		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0041570.mp3",
+		  "exFr1":"Cri du cheval",
+		  "exVn1":"Tiếng ngựa hí",
+		  "exFr2":"Monter à cheval",
+		  "exVn2":"Cưỡi ngựa",
+		  "others":["(nghĩa bóng, nghĩa cũ) người thô thiển, tàn nhẫn","Un vrai cheval","Một người thô thển thực sự"]
 		}
 	],
 	"search": [

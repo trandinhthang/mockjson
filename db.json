@@ -23,18 +23,6 @@
 		  "name": "Météo",
 		  "vietsub":"Thời tiết",
 		  "image": "https://www.flaticon.com/premium-icon/icons/svg/3059/3059351.svg"
-		},
-		{
-		  "id": 5,
-		  "name": "Naturels",
-		  "vietsub":"Thiên nhiên",
-		  "image": "https://www.flaticon.com/premium-icon/icons/svg/2970/2970098.svg"
-		},
-		{
-		  "id": 6,
-		  "name": "Musique",
-		  "vietsub":"Âm nhạc",
-		  "image": "https://www.flaticon.com/premium-icon/icons/svg/3124/3124991.svg"
 		}
 	], 
 	"vocabulary": [

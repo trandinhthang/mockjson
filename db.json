@@ -69,7 +69,21 @@
 		  "others":[""]
 		},
 		{
-		  "key":4,
+		"key":4,
+		"nameFr": "Camion",
+		"nameVn": "Xe tải",
+		"IPA": "[kamjɔ̃]",
+		"categorie": 1,
+		"image":"https://www.flaticon.com/premium-icon/icons/svg/2656/2656273.svg",
+		"url":"https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0050470.mp3",
+		"exFr1":"Camion amphibie",
+		"exVn1":"Xe tải lội nước",
+		"exFr2":"Camion chenillé",
+		"exVn2":"Xe tải bánh xích",
+		"others":[""]
+		},
+		{
+		  "key":5,
 		  "nameFr": "Ananas",
 		  "nameVn": "Trái dứa",
 		  "IPA": "[anana(s)]",
@@ -83,7 +97,7 @@
 		  "others":[""]
 		},
 		{
-		  "key":5,
+		  "key":6,
 		  "nameFr": "Pomme",
 		  "nameVn": "Trái táo",
 		  "IPA": "[pɔm]",
@@ -97,7 +111,7 @@
 		  "others":[""]
 		},
 		{
-		  "key":6,
+		  "key":7,
 		  "nameFr": "Banane",
 		  "nameVn": "Trái chuối",
 		  "IPA": "[banan]",
@@ -111,7 +125,7 @@
 		  "others":[""]
 		},
 		{
-			"key":7,
+			"key":8,
 			"nameFr": "Cerf",
 			"nameVn": "Hươu",
 			"IPA": "[sɛʀ]",
@@ -125,7 +139,7 @@
 			"others":["(từ đồng âm) serre","Nhà kính, sức ép","Donner une première serre au raisin","Ép nho lần thứ nhất"]
 		},
 		{
-		  "key":8,
+		  "key":9,
 		  "nameFr": "Gorille",
 		  "nameVn": "Khỉ đột",
 		  "IPA": "[ɡɔʀij]",
@@ -139,18 +153,46 @@
 		  "others":["(thân mật, nghĩa bóng) vệ sĩ, cận vệ","Les gorilles du Président","Những cận vệ của tống thống"]
 		},
 		{
-		  "key":9,
-		  "nameFr": "Cheval",
-		  "nameVn": "Ngựa",
-		  "IPA": "[ʃ(ə)val]",
+		  "key":10,
+		  "nameFr": "Lapin",
+		  "nameVn": "Thỏ",
+		  "IPA": "[lapɛ̃]",
 		  "categorie": 3,
-		  "image": "https://www.flaticon.com/premium-icon/icons/svg/3042/3042491.svg",
-		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0041570.mp3",
-		  "exFr1":"Cri du cheval",
-		  "exVn1":"Tiếng ngựa hí",
-		  "exFr2":"Monter à cheval",
-		  "exVn2":"Cưỡi ngựa",
-		  "others":["(nghĩa bóng, nghĩa cũ) người thô thiển, tàn nhẫn","Un vrai cheval","Một người thô thển thực sự"]
+		  "image": "https://www.flaticon.com/premium-icon/icons/svg/2716/2716961.svg",
+		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0069770.mp3",
+		  "exFr1":"Lapin de garenne",
+		  "exVn1":"Thỏ hoang",
+		  "exFr2":"Femelle du lapin",
+		  "exVn2":"Thỏ cái",
+		  "others":[""]
+		},
+		{
+		"key":11,
+		"nameFr": "Cheval",
+		"nameVn": "Ngựa",
+		"IPA": "[ʃ(ə)val]",
+		"categorie": 3,
+		"image": "https://www.flaticon.com/premium-icon/icons/svg/3042/3042491.svg",
+		"url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0041570.mp3",
+		"exFr1":"Cri du cheval",
+		"exVn1":"Tiếng ngựa hí",
+		"exFr2":"Monter à cheval",
+		"exVn2":"Cưỡi ngựa",
+		"others":["(nghĩa bóng, nghĩa cũ) người thô thiển, tàn nhẫn","Un vrai cheval","Một người thô thển thực sự"]
+		},
+		{
+		"key":13,
+		"nameFr": "Loup",
+		"nameVn": "Chó sói",
+		"IPA": "[lu]",
+		"categorie": 3,
+		"image": "https://www.flaticon.com/premium-icon/icons/svg/165/165191.svg",
+		"url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0100460.mp3",
+		"exFr1":"Chasse du loup",
+		"exVn1":"Sự săn chó sói",
+		"exFr2":"Mon petit loup",
+		"exVn2":"Sói con bé bỏng của tôi",
+		"others":[""]
 		}
 	],
 	"search": [

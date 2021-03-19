@@ -138,62 +138,8 @@
 			"exVn2":"Hươu cái",
 			"others":["(từ đồng âm) serre","Nhà kính, sức ép","Donner une première serre au raisin","Ép nho lần thứ nhất"]
 		},
-		{
-		  "key":9,
-		  "nameFr": "Gorille",
-		  "nameVn": "Khỉ đột",
-		  "IPA": "[ɡɔʀij]",
-		  "categorie": 3,
-		  "image": "https://lh3.googleusercontent.com/y4k-i1i8elWUppCEikMLnUNART_VcIaVVd7D2Dg5rvhNqaMZBwy19BLBjXrU_nv9cC7sRC-2_v9WK2U5T1ARKeYdlD5_UhFkG_BUPaVRnamcFlTeet98nu32X2l2IN5hAfobZnwAEtUcV8TzLdJFtMly_gkQBMa5d6AxM7TmfaMFIC5SodpbJJtAoDdn8nqLMHYJF2fvbnm4F--ncsQr_pBm2XJ2106jyMsA3dSH_QWbLxu9uNkqXa8L_iJmseCZhfWOViqtmgbA7WTZZhSx8GXxQyatnpC76Ull6f0yfDfF-DwMLLQL5OwC8tiqSRkcCOIQJpIigiJtissPRZKYzeO0IJAzW-RWjKMFZ27hNRnAwmD9USsuqjmoyDpBsC_Q2QCe4AxdW3iyf0iQRp27W8uocP_99M2mkLwMaIGE1JgbqjBPajUlXyoytYDFuxDfbsUWGDkKqJRX8o_pjNhPUzGeUwewi7hBsYjjSonIMgHk9k2YDhP3rtkB4DRU_v6JPN33rTntEEL2n-7Pn5_TcXntU7C06Oq0D-8YobC7kGlNkmTJ_l-NEhrq0PLpDFvGkaUyo36gM0q2NmRSteg-AMyfNu9njriHZrx-giEREDrZW1smWPdu5IWCTcDcf2BG36HkSC1P6g1K6A0Vfgokw4IWkfmq0gtTGEOP3-zH-8bBNgnzEuzHJvhBfoVwnQapCsPWhrAIbGqgCvkA4d9rOTdk=s512-no?authuser=0",
-		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0037300.mp3",
-		  "exFr1":"Les gorilles musclés",
-		  "exVn1":"Những con khỉ đột lực lưỡng",
-		  "exFr2":"Gorille et forêt",
-		  "exVn2":"Khỉ đột và rừng",
-		  "others":["(thân mật, nghĩa bóng) vệ sĩ, cận vệ","Les gorilles du Président","Những cận vệ của tống thống"]
-		},
-		{
-		  "key":10,
-		  "nameFr": "Lapin",
-		  "nameVn": "Thỏ",
-		  "IPA": "[lapɛ̃]",
-		  "categorie": 3,
-		  "image": "https://lh3.googleusercontent.com/gCqe2qrV57s-oXydoqHbGi548RKAc7ifK_LYx0nUV665dcQRw0OH5e8iFBEb4Z3HBqZDHyRiQJorK-uHL2DP9EJPT4WhEZzUOvJbHp-nENVT97RRgjMqDudnIeEOacyOaY4xfJfhg0C-jDk3MKi0LQ1V2fg5E3Jy3WdlSoV9BeLDKppiA_JcSXXE0G54i8V74qhJbQV_TKHAQL99HkpsbN6UuXREjnVWGz8fcDfz5Iu2yCxsMwxu25GGaXJYsqMGeKanZeNMoGVO6WkUiwHYRtYr7ioHMmaqV9h3JTWZmcToXRM4qnyBk5w8NSiky_qXgwTN_twojn9dU1IaS1Fc64jB14tLbnbP1hSG4UEwFjGu5uu-dmcwB5xFgTjxwyfnDe_aOy_p2GV2oHVjQCL5tw1WPZdlsIJ64gSoi7F1txWAwWz8DeoY0sk88dR8OoIAJ_hIGM3tQxdUmjdves4K3vJc7DAeGvMbGa9pPcfKQaIj_YLQjKtiVjSLGNr1AODQ4iR177ul2TMPm-HgocuGGkQVQ9bTslNhclRLWyiYp5a11ePjp6V3xqZulRONR-WcrC6O4Jrq_BFTqLjtRjSiTALkeNrQpZ83b8P91IOju7Rmc50VS_WlE9yCwPJTlm4PRZflsHpbkSRUVq89507IuTzPFeumrb4psnxiBtxYQKXjUmxL6Tb2Puafm4HM8TolFGZfEu2OAHP3qyefuJZX-EcK=s512-no?authuser=0",
-		  "url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0069770.mp3",
-		  "exFr1":"Lapin de garenne",
-		  "exVn1":"Thỏ hoang",
-		  "exFr2":"Femelle du lapin",
-		  "exVn2":"Thỏ cái",
-		  "others":[""]
-		},
-		{
-			"key":11,
-			"nameFr": "Cheval",
-			"nameVn": "Ngựa",
-			"IPA": "[ʃ(ə)val]",
-			"categorie": 3,
-			"image": "https://lh3.googleusercontent.com/h4NXDg25afrg7L6gfL6TMuk662W-x3faYuEchs_L7Gt7gXnGeXJVSAwZDC-64oVQaEDMgBltVs8MFF9sGn7xdliRC2IdDt8Ye4MVrrpcnqyPEJQ2g8msmG3cxqEeXnzuYZTQMuRhASmqNGOCMcPkguGr532Pf5otWEvsgSQsPiN3dNIJulaDCFu7CY65JlRMl_pk8DwYd9P314OBxNt5qqzFOZUAJDBB5f5FQGn_NySiREztyaON0sL7TEPsMnXRPEDjDeAQmd3ob4oMHxibkvwpCCa_6Q5-peJr0Ck8AtvoK5NcNoOholwTr5UjgLethdM13PZ8kMUM4KgRcEbPMhCpPtpZ8sQo45Cj0lfoPVLiAiH92J_KY6d7x2ncOoCozs4kyTZPVlm-fSoUGxfopo-Dmxx9IZlWU9zwsnJSBvQo7gSUAVxHxgdBbQItkjByocMTrs3GFYQQoVfQjgQAo1UENndX4fM1GJ-ZKLzeJn154sQEToycOP7NGfA4upIuN9LhXgcbl7CLXdyU6ZsvbY_ay3eE48YcYqxXPZVie-QwJ2p_FC4MHO3-CxBAaBl4v6TUEkjYMWTC7FIbwNYvYBQ_r8dWadjXu5KzDVyK8gEv2-0Ul3j4sVwjJteSjRAV0xxgJR_0JutEirbugo93ZeGq71AuPl9P1ZWuicmKWRvd0WhbGDbM1hvKhoB8pfG796AowH4jN8b2ZouyfuLW3FBZ=s512-no?authuser=0",
-			"url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0041570.mp3",
-			"exFr1":"Cri du cheval",
-			"exVn1":"Tiếng ngựa hí",
-			"exFr2":"Monter à cheval",
-			"exVn2":"Cưỡi ngựa",
-			"others":["(nghĩa bóng, nghĩa cũ) người thô thiển, tàn nhẫn","Un vrai cheval","Một người thô thển thực sự"]
-		},
-		{
-			"key":13,
-			"nameFr": "Loup",
-			"nameVn": "Chó sói",
-			"IPA": "[lu]",
-			"categorie": 3,
-			"image": "https://lh3.googleusercontent.com/CWfhNvmdmXzG6AyEldiGh3d2NIu7uw08DC1WYLrBKfJ5jiDVkfTcYNe0lV9liYcoDTruaU3C2a8ZXG1iaiz5cPZSavC7PR-LYGjLSeETwwNkkG-nhs471head3sj3nuAh0rTYXGVK1dH7i8jGgYTgntW7RG-gRlsVro7-xpVzV_MIr_1dTvGJXMUXnOYNAs_KuYH6CgcdEvXmBDgYNXTSN5BbfUILc0yHATpWxGmpJarxEhVf0mV-0moFEoUR5YMjDS5F8N--NqJs4wA0dg5FGRo8T-RKKitwuWyU_elax5hwAUq_FQqQbQL0hSRqmJ6WoBFK8vMyxHQLgUAXl_PbcwdS-QWZQEv5mIAoilGYahEkgbJ_41A4aaCQeJhfpAH3AmZ2kGivIaPPo8sFwsHKzMxO8UH_eiVLAAyJmUPIHNIep28pKIsHWY5SvNMwe8duo9clm6P5lPTmDyREk6vorCFzVpP_jvN13bBHNjcZRLkvE8VbO1H-Ne2t4SHyno3icYJ670TKqZm_8zAuJtp7DRlNjKrX2o3h_JbObduiXXxjn4v9ADCQ0KkcLSs3M--m9-vnNfnqNOTonfpVsPlCefMkOCVjlagiVJIKll3B4aWyvkl6Vo7_iAqv27_b5OdZ4Zq8A8VetNzNGKdp_xkwt9CXzJzkOIN_Yo9XbdnA1O1zPOeRpQOVX59RJ4FEezJHw18IrMPlsOgGpgTpbISd9Hl=s512-no?authuser=0",
-			"url": "https://www.collinsdictionary.com/sounds/hwd_sounds/FR-W0100460.mp3",
-			"exFr1":"Chasse du loup",
-			"exVn1":"Sự săn chó sói",
-			"exFr2":"Mon petit loup",
-			"exVn2":"Sói con bé bỏng của tôi",
-			"others":[""]
-		}
+		
+	
 	]
 	
 }
